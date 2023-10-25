@@ -18,7 +18,7 @@ Para começar, é necessário atender a alguns requisitos explicitados:
 
 1. Clone o repositório.
    ```sh
-   git clone https://github.com/pedromartins13/Batalha_de_RPG.git
+   git clone https://github.com/IgorFalco/Batalha_RPG_C.git
    ```
 2. Entre no diretório do repositório.
     ```sh
